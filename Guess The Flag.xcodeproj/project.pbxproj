@@ -12,6 +12,7 @@
 		65C7F3FB1B6B568F0064C019 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65C7F3F91B6B568F0064C019 /* Main.storyboard */; };
 		65C7F3FD1B6B568F0064C019 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65C7F3FC1B6B568F0064C019 /* Assets.xcassets */; };
 		65C7F4001B6B568F0064C019 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65C7F3FE1B6B568F0064C019 /* LaunchScreen.storyboard */; };
+		65C7F4081B6B71720064C019 /* Array+Shuffling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C7F4071B6B71720064C019 /* Array+Shuffling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		65C7F3FC1B6B568F0064C019 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65C7F3FF1B6B568F0064C019 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		65C7F4011B6B568F0064C019 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65C7F4071B6B71720064C019 /* Array+Shuffling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Array+Shuffling.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				65C7F3F51B6B568F0064C019 /* AppDelegate.swift */,
 				65C7F3F71B6B568F0064C019 /* ViewController.swift */,
+				65C7F4071B6B71720064C019 /* Array+Shuffling.swift */,
 				65C7F3F91B6B568F0064C019 /* Main.storyboard */,
 				65C7F3FC1B6B568F0064C019 /* Assets.xcassets */,
 				65C7F3FE1B6B568F0064C019 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			files = (
 				65C7F3F81B6B568F0064C019 /* ViewController.swift in Sources */,
 				65C7F3F61B6B568F0064C019 /* AppDelegate.swift in Sources */,
+				65C7F4081B6B71720064C019 /* Array+Shuffling.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
